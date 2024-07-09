@@ -36,9 +36,9 @@
 - [Hemraj Bhatt](https://github.com/HemrajB87/) **First Open Source Contribution**
 - [Affan Khan](https://github.com/affank1020) **First open source contribution**
 - [Kuan-Fu Lin](https://github.com/kfulin) **First Open Source Contribution**
-[lakshitha-madushan](https://github.com/lakshitha779988) **This is my first contribution and is awesome**
+- [lakshitha-madushan](https://github.com/lakshitha779988) **This is my first contribution and is awesome**
 - [AbelolDev](https://github.com/AbelolDev) **This is my first contribution and is awesome**
--[Mayank kakkar](https://github.com/Mynk1701) **First Contribution**
+- [Mayank kakkar](https://github.com/Mynk1701) **First Contribution**
 - [Haya](https://github.com/HayaOnGit) **First contribution**
 - [Jaeah Lee - Ruthgyeul](https://github.com/ruthgyeul) **Don't Stop, Keep Coding!**
 - [Trazer09](https://github.com/Trazer09)~
@@ -79,9 +79,9 @@
 - [Thu Rain Ko]
 - [Samyuktha] ***Yaaay! Lets Goo!***
 - [Polargeddon] ***i like chez***
--[Shreya]
--[Pratik Abnave] (https://github.com/pratik9409) *** My first contributions ***
--[Gourav]
+- [Shreya]
+- [Pratik Abnave] (https://github.com/pratik9409) *** My first contributions ***
+- [Gourav]
 - [Harish Rangan](https://github.com/Harish000001) *** My first open source contribution! ***
 - [Mehdi Ben Hadj Khelifa](https://github.com/Mehdibenhadjkhelifa) **My First Contribution! Here is to many More!!**
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
@@ -116,7 +116,7 @@
 - [Gagan] https://github.com/learngpsk
 - [rishabh-sarang] yo
 - [gino] hello~~
-  [Arian Soltani](https://github.com/Arian1-dev)
+- [Arian Soltani](https://github.com/Arian1-dev)
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
 - [Aditya](https://github.com/adityax4) **Hello World**
