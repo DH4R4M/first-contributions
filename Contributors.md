@@ -1,5 +1,5 @@
 # Contributors
-- [DH4R4M](https://github.com/DH4R4M) **My first contribution on 10/07/2024**
+- [DH4R4M](https://github.com/DH4R4M) **My first ever contribution. 10/07/2024**
 - [Charles Lambert](https://github.com/Lambert-Charles) **2024/07/09 Latest addition until the latest latest addition**
 -JOHAN
 -JohnK
